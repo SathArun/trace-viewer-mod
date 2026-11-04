@@ -1,0 +1,5 @@
+{
+  "name": "trace-viewer-mod",
+  "owner": { "name": "SathArun" },
+  "plugins": [{ "name": "trace-viewer-mod", "source": "./" }]
+}

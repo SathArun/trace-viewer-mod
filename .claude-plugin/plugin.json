@@ -1,0 +1,7 @@
+{
+  "name": "trace-viewer-mod",
+  "version": "0.1.0",
+  "description": "A pane that lists the agent's traces/*.jsonl runs and shows one run as a readable, live timeline",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
